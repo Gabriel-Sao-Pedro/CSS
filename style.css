@@ -1,0 +1,25 @@
+body{
+    background-image: url('imagens/fundo.png');
+}
+#link{
+    font-size:  20px;
+    color: darkblue;
+    border: 1px solid;
+    
+}
+#titulo{
+    color: gray;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.texto{
+    background-color: white;
+    border: 1px solid; 
+
+}
+.linha{
+    font-weight: 650;
+}
+.rodape{
+    text-align: center;
+}
